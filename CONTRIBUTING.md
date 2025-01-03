@@ -78,7 +78,8 @@ By participating in this repository, you agree to abide by our [Code of Conduct]
 
 ## License
 
-By contributing, you agree that your contributions will be licensed under the [MIT License](LICENSE).
+By contributing to this repository, you agree that your contributions are made under the same license as the repository and that you assign all rights, title, and interest in your contributions to [Core DF].
+
 
 ---
 
