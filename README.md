@@ -62,7 +62,7 @@ We welcome contributions from the community! If you have a plugin, library, or e
 3. Add your plugin or example to the appropriate directory and include a README.md file explaining its usage.
 4. Submit a pull request with a clear description of your contribution.
 
-For detailed guidelines, refer to the CONTRIBUTING.md file.
+For detailed guidelines, refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ---
 
