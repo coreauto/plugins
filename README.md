@@ -68,7 +68,7 @@ For detailed guidelines, refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). You’re free to use, modify, and distribute the content, provided attribution is given to the original source.
+This repository is licensed under the [Apache License 2.0](LICENSE). You’re free to use, modify, and distribute the content, provided attribution is given to the original source.
 
 ---
 
